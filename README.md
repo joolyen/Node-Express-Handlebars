@@ -1,7 +1,7 @@
 ## Node-Express-Handlebars
 
-#### https://github.com/joolyen/Note-Taker/ 
 #### https://github.com/joolyen/Node-Express-Handlebars
+#### https://jules-burger.herokuapp.com/
 
 ## Description
 An app where you can create and delete information in a database
