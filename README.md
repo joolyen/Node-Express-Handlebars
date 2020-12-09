@@ -1,18 +1,16 @@
 ## Node-Express-Handlebars
 
 #### https://github.com/joolyen/Note-Taker/ 
-#### https://joolyen.github.io/Note-Taker/
-#### https://taker-notes.herokuapp.com/
-#### https://taker-notes.herokuapp.com/bubbles
+#### https://github.com/joolyen/Node-Express-Handlebars
 
 ## Description
-An application that can be used to write, save, and delete notes. This application uses an express backend and save and retrieve note data from a JSON file.
+An app where you can create and delete information in a database
 
 ## Technologies Used: 
-Javascript, Node.js, Express 
+Javascript, Node.js, Express, mySQL 
 
 ## Screenshot
-![screenshot](./public/assets/img/note-taker.png)
+![screenshot](./public/assets/img/heroku.png)
 
 ## Table of Contents:
 * [1. Installation](#installation)
@@ -26,7 +24,7 @@ Javascript, Node.js, Express
 Download code to local computer and run npm install in console and then enter 'node server.js' to run application. 
 
 ### 2. Usage
-Once you install and run you go to localhost:2377 to run on your local machine and you have a note tacker.
+Once you install and run you go to localhost:2377 to run on your local machine.
 
 ### 3. License
 see below
